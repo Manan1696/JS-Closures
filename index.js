@@ -70,6 +70,8 @@ var x = (function () {
 })();
 x();
 
+//Output - (alert-12)
+
 
 //Q8:
 var globalVar = "xyz";
